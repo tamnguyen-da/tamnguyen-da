@@ -5,6 +5,7 @@ An analytics professional with over 3 years of experience in building scalable d
 
 ---
 
+
 ### 🌟 Executive Summary
 - 💼 **Current Focus:** Net Revenue Management (NRM) Analytics & Category Strategic Planning (CSP) in the FMCG sector.
 - 📊 **Core Expertise:** End-to-end Data Engineering (ETL automation, Star/Snowflake Schema modeling), Advanced Data Visualization, and Multi-source Data Integration.
@@ -40,6 +41,11 @@ An analytics professional with over 3 years of experience in building scalable d
 
 ### 📂 Highlighted Analytics Projects (Portfolio)
 
+<a href="https://github.com/tamnguyen-da/Olist-Ecom/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tamnguyen-da&repo=Olist-Ecom&theme=tokyonight" />
+</a>
+
 #### 🛍️ 01. Olist E-Commerce Data Warehouse & Customer Segmentation
 - **Objective:** Architect an optimized data warehouse and implement advanced customer clustering to resolve real-world data quality issues and uncover hidden behavioral patterns.
 - **Implementation:** - Engineered intermediate aggregated SQL CTEs/Views to eliminate data duplication caused by the **Fan-out Effect** between product items and installments, ensuring a strict **1 row per order** grain.
@@ -47,20 +53,25 @@ An analytics professional with over 3 years of experience in building scalable d
   - Applied the **K-Means Clustering** machine learning algorithm to segment the multi-market customer base.
 - **Key Insight Derived:** Identified a critical "Shipping Cost Paradox" where *High-Spenders* and *Loyal Customers* faced disproportionately high freight friction, acting as a barrier to purchase frequency. Recommended targeted freight subsidies to unlock latent revenue.
 
+<a href="https://github.com/tamnguyen-da/Dishwash_Shopee/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tamnguyen-da&repo=Dishwash_Shopee&theme=tokyonight" />
+</a>    
+
 #### 🛒 02. Shopee E-Commerce Market Analysis (Dishwash Category)
 - **Objective:** Track category and brand performance on Shopee to identify potential white spaces for product launch and competitor defense strategies.
 - **Implementation:** Built a multi-level decentralized Power BI system tracking single/combo order dynamics, value share contribution, and demand space growth.
 - **Key Insight Derived:** Uncovered a massive market concentration in the *Super Premium - Gentle & Safety* segment (growing at 145% YoY), signaling clear consumer willingness to trade up for specialized benefits.
 
+<a href="https://github.com/tamnguyen-da/ESG-Report/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tamnguyen-da&repo=ESG-Report&theme=tokyonight" />
+</a>    
+
 #### 🌱 03. Corporate ESG & Sustainability Dashboard System
 - **Objective:** Standardize and orchestrate automated reporting architecture for fragmented environmental, health, and occupational safety metrics.
 - **Implementation:** Deployed a robust **Snowflake Schema** data model via SharePoint and Power Query to dynamically synthesize multi-source data. Integrated conditional threshold logic providing immediate automated alerts to executives upon any safety or operational anomaly.
 
-#### 📦 04. Commercial Shipping & Margin Optimization Analysis
-- **Objective:** Evaluate and optimize cost efficiency and profitability ratios across various delivery modules.
-- **Implementation:** Processed multi-market distribution metrics to evaluate return-on-sales margins. Proved that *Same-Day Delivery* models, despite lower volume, generated the highest net profit margins due to specific cost-to-serve behaviors.
-
----
 
 ### 🎓 Education & Achievements
 - **Bachelor of Business Administration (Marketing)** - Ho Chi Minh City Open University (GPA: 3.4/4.0).
