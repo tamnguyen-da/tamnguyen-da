@@ -1,6 +1,6 @@
 # Hi there, I'm Tam Nguyen (Nguyễn Minh Tâm) 👋
 ### Data Analyst | BI Analyst
-### Interesting in Finance and FMCG
+### Interested in Finance and FMCG
 An analytics professional with over 3 years of experience in building scalable data solutions, automating data workflows, and translating complex datasets into actionable business strategies. Proven track record of managing large-scale datasets at leading corporations like Unilever and Greenfeed Vietnam. Committed to continuous learning to drive measurable business value and optimize organizational performance.
 
 ---
