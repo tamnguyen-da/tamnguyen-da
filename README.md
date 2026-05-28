@@ -2,9 +2,21 @@
 ### Data Analyst | BI Analyst
 ### Interested in Finance and FMCG
 An analytics professional with over 3 years of experience in building scalable data solutions, automating data workflows, and translating complex datasets into actionable business strategies. Proven track record of managing large-scale datasets at leading corporations like Unilever and Greenfeed Vietnam. Committed to continuous learning to drive measurable business value and optimize organizational performance.
-
 ---
 
+### 📂 Highlighted Analytics Projects (Portfolio)
+<a href="https://github.com/tamnguyen-da/Olist-Ecom/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tamnguyen-da&repo=Olist-Ecom&theme=tokyonight" />
+</a>
+<a href="https://github.com/tamnguyen-da/ESG-Report/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tamnguyen-da&repo=ESG-Report&theme=tokyonight" />
+</a>    
+<a href="https://github.com/tamnguyen-da/Dishwash_Shopee/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tamnguyen-da&repo=Dishwash_Shopee&theme=tokyonight" />
+</a>   
 
 ### 🌟 Executive Summary
 - 💼 **Current Focus:** Net Revenue Management (NRM) Analytics & Category Strategic Planning (CSP) in the FMCG sector.
@@ -38,13 +50,7 @@ An analytics professional with over 3 years of experience in building scalable d
 - **Business Recognition:** Modeled and monitored critical ESG, energy, emission, and OHS metric dashboards, contributing directly to the group ranking **Top 10 CSI (Corporate Sustainability Index) in 2023** and jumping to **Top 3 CSI in 2024**.
 
 ---
-
-### 📂 Highlighted Analytics Projects (Portfolio)
-
-<a href="https://github.com/tamnguyen-da/Olist-Ecom/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tamnguyen-da&repo=Olist-Ecom&theme=tokyonight" />
-</a>
+### 📂 Porfolios description:
 
 #### 🛍️ 01. Olist E-Commerce Data Warehouse & Customer Segmentation
 - **Objective:** Architect an optimized data warehouse and implement advanced customer clustering to resolve real-world data quality issues and uncover hidden behavioral patterns.
@@ -53,20 +59,14 @@ An analytics professional with over 3 years of experience in building scalable d
   - Applied the **K-Means Clustering** machine learning algorithm to segment the multi-market customer base.
 - **Key Insight Derived:** Identified a critical "Shipping Cost Paradox" where *High-Spenders* and *Loyal Customers* faced disproportionately high freight friction, acting as a barrier to purchase frequency. Recommended targeted freight subsidies to unlock latent revenue.
 
-<a href="https://github.com/tamnguyen-da/Dishwash_Shopee/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tamnguyen-da&repo=Dishwash_Shopee&theme=tokyonight" />
-</a>    
+ 
 
 #### 🛒 02. Shopee E-Commerce Market Analysis (Dishwash Category)
 - **Objective:** Track category and brand performance on Shopee to identify potential white spaces for product launch and competitor defense strategies.
 - **Implementation:** Built a multi-level decentralized Power BI system tracking single/combo order dynamics, value share contribution, and demand space growth.
 - **Key Insight Derived:** Uncovered a massive market concentration in the *Super Premium - Gentle & Safety* segment (growing at 145% YoY), signaling clear consumer willingness to trade up for specialized benefits.
 
-<a href="https://github.com/tamnguyen-da/ESG-Report/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tamnguyen-da&repo=ESG-Report&theme=tokyonight" />
-</a>    
+
 
 #### 🌱 03. Corporate ESG & Sustainability Dashboard System
 - **Objective:** Standardize and orchestrate automated reporting architecture for fragmented environmental, health, and occupational safety metrics.
